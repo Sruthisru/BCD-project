@@ -1,1 +1,1 @@
-# BCD-project
+Breast Cancer Diagnosis project
